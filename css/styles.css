@@ -336,6 +336,7 @@ button input {
     list-style: none;
     margin: 0;
     padding: 0;
+    z-index: 1;
   }
   nav ul a {
     display: block;
@@ -348,6 +349,7 @@ button input {
     background:#2e4a6d;
     transition: 1s all;
     box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
+ 
   }
   .top-links {
     display: none;
@@ -393,15 +395,17 @@ button input {
   }
   .rowSecond .boxContentPlace ul {
     font-size: 9px;
+    margin-left: 38px;
   }
   .rowSecond .boxContentPlace p {
     font-size: 10px;
   }
   .rowSecond input {
-    width: 87%;
+    width: 56%;
     padding: 6px;
     font-size: 16px;
     font-weight: bold;
+    margin-left: 33px;
   }
   .rowThird input {
     width: 33%;
@@ -444,12 +448,12 @@ button input {
   .boxContent h2 {
     font-size: 30px;
     font-weight: bold;
-    margin: 20px 0px 65px 29px;
+    margin: 20px 0px 65px 46px;
   }
   .boxContent p {
     font-size: 19px;
     width: 85%;
-    margin: 20px 0 60px 27px;
+    margin: 20px 0 60px 24px;
     text-align: justify;
   }
 }
