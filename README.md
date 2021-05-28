@@ -5,22 +5,22 @@ Clonar una landing page utilizando únicamente HTML y CSS
 
 
 ## Requisitos y tecnologías:  
-
+- Responsive
 - HTML 
 - CSS
-- Responsive
+
 
 # Comenzando
 ## Pre-requisitos  
-Visual Studio Code
+
 Navegador donde correr la aplicación
 
 ## Visualizar el proyecto
 
 Varias opciones:
-- Puede simplemente arrastrar y soltar el archivo HTML directamente en una nueva pestaña de Chrome, este abrirá automáticamente la página.
-- Busque el archivo HTML que desea ver, haga clic derecho sobre él y elija Abrir con del menú. Verá una lista completa de aplicaciones que puede usar para ejecutar su archivo. Su navegador predeterminado estará en la parte superior de la lista.
-Seleccione Google Chrome de la lista y vea su archivo en el navegador.
+- Puedes simplemente arrastrar y soltar el archivo HTML directamente en una nueva pestaña de Chrome, este abrirá automáticamente la página.
+- Busca el archivo HTML que deseas ver, haz clic derecho sobre él y elije **Abrir con** del menú. Verás una lista completa de aplicaciones que puedes usar para ejecutar tu archivo. Tu navegador predeterminado estará en la parte superior de la lista.
+Selecciona Google Chrome de la lista y visualiza tu archivo en el navegador.
 
 ### Preview
 
@@ -30,8 +30,6 @@ Seleccione Google Chrome de la lista y vea su archivo en el navegador.
 
 
 
-
-# Tecnologías  
-HTML y CSS
-
+## Autor  
+Lucía Glez.
 
