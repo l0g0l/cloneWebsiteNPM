@@ -278,7 +278,7 @@ button input {
 }
 
 /* Tablets (portrait & landscape) */
-@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
   .navigation {
     justify-content: space-around;
     font-size: 15px;
@@ -321,7 +321,7 @@ button input {
 }
 
 /* Smartphones (portrait & landscape) */
-@media only screen and (min-device-width: 320px) and (max-device-width: 767px) {
+@media only screen and (min-width: 320px) and (max-width: 767px) {
   .top-left {
     margin-top: 3px;
   }
@@ -412,6 +412,7 @@ button input {
   }
   .rowFour ul {
     flex-direction: column;
+    align-items: center;
   }
   .rowFour .boxContent {
     width: 85%;
@@ -429,6 +430,10 @@ button input {
   }
   .boxContent {
     margin: 0 auto 0 auto;
+    width: 100%;
+    flex-wrap: wrap;
+    margin-left: 20px;
+    margin-right: 13px;
   }
   .boxContentPlace {
     width: 100%;
