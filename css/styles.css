@@ -341,12 +341,13 @@ button input {
     display: block;
     width: 190px;
     text-decoration: none;
-    border: 0.5px solid #ffff;
+    border: 0.5px solid #c4181a;
     padding: 0.3em 0;
     text-align: center;
     color: #ffff;
-    background: #c4181a;
+    background:#2e4a6d;
     transition: 1s all;
+    box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px;
   }
   .top-links {
     display: none;
@@ -354,6 +355,7 @@ button input {
   }
   input:checked ~ ul {
     display: block;
+    margin-bottom: 20px;
   }
 
   /* end dropmenu*/

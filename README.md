@@ -11,7 +11,7 @@ Clonar una landing page utilizando únicamente HTML y CSS
 - Responsive
 
 # Comenzando
-##Pre-requisitos  
+## Pre-requisitos  
 Visual Studio Code
 Navegador donde correr la aplicación
 
